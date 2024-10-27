@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --toastify-color-success: #063f37;
+  --toastify-icon-color-success: "white";
+  --toastify-toast-width: "100%";
+}
+
+@layer base {
+  @font-face {
+    font-family: "Karla";
+    font-display: swap;
+    src: url(/fonts/lora/Karla-VariableFont_wght) format("truetype");
+  }
+
+  h1 {
+    @apply text-[32px] tracking-[-1px];
+  }
+
+  body {
+    @apply bg-green200 text-[18px] leading-5;
+  }
+}
+
+@layer components {
+  .font-karla {
+    font-family: "Karla";
+  }
+}
