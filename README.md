@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/responsive-contact-form-made-with-react-and-tailwind-EjZtvDvipv)
 - Live Site URL: [netlify.com](https://magical-pixie-6e4a39.netlify.app/)
 
 ### Built with
